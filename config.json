@@ -1,0 +1,13 @@
+{
+    "base_project_dir": "S:/done_projects/VoiceAssistantPyQT",
+    "users_bd": "users.db",
+    "user_data_pcl": "user_data.pkl",
+    "crypto_drive_letter": "F",
+    "config_voice": "config.csv",
+    "silero_model": "model/Silero/model.pt",
+    "admin_logs": {
+        "admin_logs_dir": "S:/done_projects/VoiceAssistantPyQT/admin_logs/",
+        "assistant_logs_file": "assistant_log.txt",
+        "flashdrive_watcher_file": "flashdrive_watcher.log"
+    }
+}

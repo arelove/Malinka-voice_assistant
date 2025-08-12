@@ -1,0 +1,22 @@
+name, rank, year, company, wealth
+GPU, 1, 1996, Microsoft, 18.5
+GPU, 1, 2001, Microsoft, 58.7
+GPU, 1, 2014, Microsoft, 76.0
+GPU, 1, 2024, Microsoft, 50.0
+CPU, 2, 1996, Berkshire, 15.0
+CPU, 2, 2001, Berkshire, 32.3
+CPU, 2, 2014, Berkshire, 58.0
+CPU, 2, 2024, Berkshire, 38.0
+RAM, 3, 1996, Telmex, 1.0
+RAM, 2, 2001, Telmex, 12.0
+RAM, 2, 2014, Telmex, 72.0
+RAM, 2, 2024, Telmex, 62.0
+Servers, 4, 1996, Hoffmann La Roshe, 13.1
+Servers, 4, 2001, Hoffmann La Roshe, 10.1
+Servers, 4, 2014, Hoffmann La Roshe, 9.1
+Servers, 4, 2024, Hoffmann La Roshe, 5.1
+Software , 3, 1996, Microsoft, 30.4
+Software, 5, 2001, Microsoft, 12.4
+Software, 5, 2014, Microsoft, 5.4
+Software, 5, 2024, Microsoft, 3.4
+

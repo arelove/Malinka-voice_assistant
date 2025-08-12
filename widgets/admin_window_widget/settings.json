@@ -1,0 +1,35 @@
+{
+    "app_name": "Панель администратора",
+    "version" : "",
+    "copyright" : "By: Ar3love",
+    "year" : 2024,
+    "theme_name" : "bright_theme",
+    "custom_title_bar": true,
+    "startup_size": [
+        650,
+        600
+    ],
+    "minimum_size": [
+        650,
+        600
+    ],
+    "lef_menu_size" : {
+        "minimum" : 50,
+        "maximum" : 240
+    },
+    "left_menu_content_margins" : 3,
+    "left_column_size" : {
+        "minimum" : 0,
+        "maximum" : 180
+    },
+    "right_column_size" : {
+        "minimum" : 0,
+        "maximum" : 180
+    },
+    "time_animation" : 500,
+    "font" : {
+        "family" : "Segoe UI",
+        "title_size" : 10,
+        "text_size" : 9
+    }
+}

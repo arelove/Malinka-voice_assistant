@@ -1,0 +1,15 @@
+2024-04-15 18:59:20,573 - INFO - Флешка администратора подтверждена на диске G:
+2024-04-15 18:59:41,485 - ERROR - Error checking key: Fernet key must be 32 url-safe base64-encoded bytes.
+Traceback (most recent call last):
+  File "S:\VSE Proekti PO PROGE\CustomTkinterTemplates\PyQT_ex\widgets\admin_window_widget\admin_window_widget.py", line 62, in is_admin_flashdrive
+    cipher_suite = Fernet(key)
+  File "S:\VSE Proekti PO PROGE\CustomTkinterTemplates\venv\lib\site-packages\cryptography\fernet.py", line 40, in __init__
+    raise ValueError(
+ValueError: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-04-15 19:01:07,225 - WARNING - Файл ключа не найден на диске G:\
+2024-04-15 19:05:04,080 - WARNING - Файл ключа не найден на диске G:\
+2024-04-15 19:05:16,919 - ERROR - Ошибка чтения ключа: Fernet key must be 32 url-safe base64-encoded bytes.
+2024-04-15 19:05:27,632 - INFO - Флешка администратора подтверждена на диске G:
+2024-04-15 20:13:55,649 - INFO - Флешка администратора подтверждена на диске G:
+2024-04-15 20:14:07,106 - INFO - Флешка администратора подтверждена на диске G:
+2024-04-15 20:14:20,174 - INFO - Флешка администратора подтверждена на диске G:
