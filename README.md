@@ -2,9 +2,7 @@
 
 This repository contains the source code for my 2021 diploma project developed during my studies at **RTU MIREA**. The project is a desktop application that includes system monitoring widgets (e.g., CPU temperature) and a voice assistant with various functionalities.
 
-![Application Screenshot](images/screenshot.png)
-
-*Note*: Replace `images/screenshot.png` with the actual screenshot of your application.
+![Application Screenshot](images/main.png)
 
 ## Table of Contents
 - [Overview](#overview)
