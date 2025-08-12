@@ -26,8 +26,8 @@ Before running the application, ensure you have the following:
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/arelove/Malinka-voice_assistant.git
+   cd Malinka-voice_assistant
    ```
 
 2. **Install Dependencies**:
